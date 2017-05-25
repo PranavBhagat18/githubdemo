@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_95546_for_test_for_testing_user</name>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-25 11:10:14</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8a4b1048db47320092f95c00cf9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_95546_for_test_for_testing_user</sys_name>
+        <sys_package display_value="for test" source="x_95546_for_test">050b1c08db47320092f95c00cf96192f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="for test">050b1c08db47320092f95c00cf96192f</sys_scope>
+        <sys_update_name>sys_user_role_8a4b1048db47320092f95c00cf9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-25 11:10:14</sys_updated_on>
+    </sys_user_role>
+</record_update>

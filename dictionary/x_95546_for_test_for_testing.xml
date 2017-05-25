@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="for testing" max_length="40" name="x_95546_for_test_for_testing" type="collection">
+        <element label="comments" max_length="40" name="comments" type="string"/>
+        <element label="shortdescription" max_length="40" name="shortdescription" type="string"/>
+    </element>
+</database>
